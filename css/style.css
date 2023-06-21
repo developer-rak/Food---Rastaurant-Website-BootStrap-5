@@ -53,3 +53,14 @@ body {
     font-size: 100%;
     font-weight: 400;
 }
+
+/* ----------CUSTOM SCROLLBAR---------- */
+::-webkit-scrollbar {
+    width: 0.625rem;
+}
+::-webkit-scrollbar-track {
+    background: var(--white-color);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+}
