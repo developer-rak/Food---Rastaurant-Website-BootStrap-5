@@ -211,4 +211,16 @@ p {
     box-shadow: 0 0.125rem 1.75rem 0 rgb(0,0,0,0.9);
     transition: all .15s ease-in-out 0s;
 }
+
+/* =====SECTION-1 top banner===== */
+.top-banner {
+    width: 100%;
+    background: url('../img/bg/bg-1.jpg') no-repeat center;
+    background-size: cover;
+    padding: 10.875rem 0 13.5rem;
+}
+
+.top-banner h1 {
+    font-weight: bold;
+}
 /* ----------END HEADER---------- */
