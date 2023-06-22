@@ -211,8 +211,9 @@ p {
     box-shadow: 0 0.125rem 1.75rem 0 rgb(0,0,0,0.9);
     transition: all .15s ease-in-out 0s;
 }
+/* ----------END HEADER---------- */
 
-/* =====SECTION-1 top banner===== */
+/* ----------SECTION-1 top banner---------- */
 .top-banner {
     width: 100%;
     background: url('../img/bg/bg-1.jpg') no-repeat center;
@@ -223,4 +224,17 @@ p {
 .top-banner h1 {
     font-weight: bold;
 }
-/* ----------END HEADER---------- */
+/* ----------END SECTION-1 top banner---------- */
+
+/* ----------SECTION-2 counter---------- */
+.counter-section {
+    background-color: var(--primary-color);
+    padding: 2.5rem 0;
+}
+
+.counter-section p {
+    color: var(--white-color);
+    text-transform: uppercase;
+}
+/* ----------END SECTION-2 counter---------- */
+
