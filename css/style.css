@@ -175,6 +175,7 @@ p {
     z-index: 1000;
     -webkit-transition: all .3s ease-out;
     transition: all .3s ease-out;
+    text-align: center;
 }
 
 .navigation-wrap .nav-item {
