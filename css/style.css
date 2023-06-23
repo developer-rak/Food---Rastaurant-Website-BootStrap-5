@@ -351,4 +351,21 @@ p {
     line-height: 2.0625rem;
     padding: 0 11% 0.625rem;
 }
+
+.testimonial-section .carousel-indicators {
+    bottom: -2.8125rem;
+}
+
+.testimonial-section .carousel-indicators button {
+    width: 15px;
+    height: 15px;
+    outline: none;
+    border-radius: 50%;
+    border: none;
+    margin-right: 1rem;
+    opacity: 0.2;
+}
+.testimonial-section .carousel-indicators button.active {
+    opacity: 1;
+}
 /* ----------END SECTION TESTIMONIALS---------- */
