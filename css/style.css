@@ -378,3 +378,14 @@ p {
     font-weight: bold;
 }
 /* ----------END SECTION FAQ---------- */
+
+/* ----------SECTION BOOK FOOD---------- */
+.book-food {
+    width: 100%;
+    background: url('../img/bg/bg-3.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 0 71.9124px;
+    padding: 4.375rem;
+}
+/* ----------END SECTION BOOK FOOD---------- */
