@@ -438,4 +438,9 @@ p {
     color: var(--white-color);
     padding: 0 1rem;
 }
+
+.footer p a {
+    text-decoration: none;
+    color: #fff;
+}
 /* ----------END SECTION FOOTER---------- */
